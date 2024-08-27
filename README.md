@@ -5,6 +5,7 @@ This is running on a clone of the FREENOVE ESP32S3-CAM board which has an SD car
 
 ## Files
 ESPFlutDX.ino should be the slightly faster client, meanwhile ESPFlutDX_simple.ino is simpler but its slower and unoptimized.
+ESPFlutDX_CAM uses the camera of the S3 board im using, its a bit iffy so i dont really recommend using it
 
 ## special thanks to:
 - berries
